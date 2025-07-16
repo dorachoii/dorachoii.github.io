@@ -1,3 +1,7 @@
+---
+layout: post
+title: "[Qiita] WebGL と GLSL で始める、はじめてのシェーダコーディング"
+---
 
 ## 📖 今日の記事  
 [やってみれば超簡単！ WebGL と GLSL で始める、はじめてのシェーダコーディング（３）](https://qiita.com/doxas/items/7e830faefdf14189a7a4)
