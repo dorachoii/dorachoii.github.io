@@ -13,100 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-07-09-shader.md",
+                "file": "2025-07-16-DR-design-pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-09-shader"
-            }
-          },
-          {
-            "id": "7467410c13fa0866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-07-10-DR-shader-hands-on.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-10-DR-shader-hands-on"
-            }
-          },
-          {
-            "id": "9e748fa313e03a65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-07-10-DR-shader-hands-on.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-10-DR-shader-hands-on"
-            }
-          },
-          {
-            "id": "78c059d105640030",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-07-11-DR-shader-hands-on-2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-11-DR-shader-hands-on-2"
-            }
-          },
-          {
-            "id": "e8e044459e117dec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-07-14-DR-2D-visual.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-14-DR-2D-visual"
-            }
-          },
-          {
-            "id": "3c50cf6d39607ae6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-07-15-DR-pixel-art.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-15-DR-pixel-art"
-            }
-          },
-          {
-            "id": "4be0b391982b1628",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-07-16-DR-shader-hands-on-3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-16-DR-shader-hands-on-3"
+              "title": "2025-07-16-DR-design-pattern"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "96a557c9cff876ed",
@@ -254,12 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4be0b391982b1628",
+  "active": "2c7c0c34026e6510",
   "lastOpenFiles": [
-    "2025-07-11-DR-shader-hands-on-2.md",
     "2025-07-16-DR-shader-hands-on-3.md",
-    "2025-07-15-DR-pixel-art.md",
+    "2025-07-16-DR-design-pattern.md",
     "2025-07-14-DR-2D-visual.md",
+    "2025-07-11-DR-shader-hands-on-2.md",
+    "2025-07-15-DR-pixel-art.md",
     "2025-07-10-DR-shader-hands-on-1.md",
     "2025-07-10-DA-vector-cross.md",
     "2025-07-09-DR-shader.md",
