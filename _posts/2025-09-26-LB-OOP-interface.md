@@ -10,7 +10,7 @@ categories:
 
 ---
 
-## 🗒️ Sample Code
+## 🗒️ Sample Code - interface basics
 
 ```csharp
 public interface IMember
